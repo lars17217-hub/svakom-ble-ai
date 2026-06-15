@@ -1,5 +1,4 @@
-# svakom-ble-ai
-SVAKOM SL278H 蓝牙协议逆向 + AI 远程控制系统
+
 # SVAKOM SL278H · BLE 逆向 + AI 远程控制完整教程
 
 > 从零逆向蓝牙协议，搭建 AI 远程控制系统。两种方案：安卓手机网页中继（推荐）/ Windows 电脑 Python 中继。
